@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Response service="OrderService">
+    <Head>OK</Head>
+    <Body>
+        <OrderResponse filter_result="2" destcode="571" mailno="444008173307" origincode="571"
+                       orderid="5b4d4ca85866472db945d02406b6adfe"/>
+    </Body>
+</Response>
